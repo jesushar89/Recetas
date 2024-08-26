@@ -1,1 +1,2 @@
-Recetas 
+# Recetas 
+## Contruccion de software
